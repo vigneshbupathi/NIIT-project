@@ -1,0 +1,8 @@
+com\sample\backend\serviceimpl\UserServiceImpl.class
+com\sample\backend\model\CategoryModel.class
+com\sample\backend\service\UserService.class
+com\sample\backend\model\SupplierModel.class
+com\sample\backend\config\DataBaseConfiguration.class
+com\sample\backend\model\UserModel.class
+com\sample\backend\model\ProductModel.class
+com\sample\backend\App.class
